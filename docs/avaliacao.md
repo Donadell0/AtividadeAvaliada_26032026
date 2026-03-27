@@ -1,5 +1,5 @@
 # Avaliação — Engenharia de Software
-**Sistema Integrado de Gestão de Farmácia **
+**Sistema Integrado de Gestão de Farmácia**
 
 Aluno: Gustavo de Moraes Donadello    
 RA: 26001336  
