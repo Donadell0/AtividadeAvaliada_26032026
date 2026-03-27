@@ -1,5 +1,5 @@
 # Avaliação — Engenharia de Software
-**Sistema Integrado de Gestão de Farmácia — MVP Definido pelo Estudante**
+**Sistema Integrado de Gestão de Farmácia **
 
 Aluno: Gustavo de Moraes Donadello    
 RA: 26001336  
@@ -64,8 +64,6 @@ A seleção do MVP foi guiada pela seguinte lógica: o sistema precisa, antes de
 ---
 
 # 6. Documentação dos Casos de Uso
-Para **cada caso de uso**, utilize o template abaixo:
----
 
 ## **UC01 — Registrar Venda**
 **Ator(es):**  Atendente
