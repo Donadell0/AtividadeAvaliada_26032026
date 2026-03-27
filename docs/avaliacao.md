@@ -59,7 +59,7 @@ A seleção do MVP foi guiada pela seguinte lógica: o sistema precisa, antes de
 ---
 
 # 5. Casos de Uso 
-![DiagramaGeral](./imgs/diagramaGeral)
+![DiagramaGeral](./imgs/diagramaGeral.png)
 
 ---
 
@@ -92,7 +92,7 @@ Para **cada caso de uso**, utilize o template abaixo:
 - **Extend:** Se pagamento a prazo: <<extend>> UC02
 - **Extend:** Se produto controlado: <<extend>> UC10.
 
-![DiagramaUC01](./imgs/UC01)
+![DiagramaUC01](./imgs/UC01.png)
 
 ---
 
@@ -111,7 +111,7 @@ Para **cada caso de uso**, utilize o template abaixo:
 ### Relacionamentos
 - **Regras de Negócio** RN02
 
-![DiagramaUC02](./imgs/UC02)
+![DiagramaUC02](./imgs/UC02.png)
 
 ---
 
@@ -130,7 +130,7 @@ Para **cada caso de uso**, utilize o template abaixo:
 ### Relacionamentos
 - **Regras de Negócio** RN01, RN05
 
-![DiagramaUC03](./imgs/UC03)
+![DiagramaUC03](./imgs/UC03.png)
 
 ---
 
@@ -149,7 +149,7 @@ Para **cada caso de uso**, utilize o template abaixo:
 ### Relacionamentos
 - **Regras de Negócio** RN01
 
-![DiagramaUC04](./imgs/UC04)
+![DiagramaUC04](./imgs/UC04.png)
 
 ---
 
@@ -172,7 +172,7 @@ Para **cada caso de uso**, utilize o template abaixo:
 - **Include:** Sistema lança em Contas a Pagar <<include>>.
 - **Regras de Negócio** RN03, RN04
 
-![DiagramaUC05](./imgs/UC05)
+![DiagramaUC05](./imgs/UC05.png)
 
 ---
 
@@ -190,7 +190,7 @@ Para **cada caso de uso**, utilize o template abaixo:
 - **Extend:** Verifica se quantidade ficou abaixo do mínimo. Se sim: <<extend>> UC11.
 - **Regras de Negócio** RN04, RN05
 
-![DiagramaUC06](./imgs/UC06)
+![DiagramaUC06](./imgs/UC06.png)
 
 ---
 
@@ -207,7 +207,7 @@ Para **cada caso de uso**, utilize o template abaixo:
 ### Relacionamentos
 - **Regras de Negócio** RN03
 
-![DiagramaUC07](./imgs/UC07)
+![DiagramaUC07](./imgs/UC07.png)
 
 ---
 
@@ -224,7 +224,7 @@ Para **cada caso de uso**, utilize o template abaixo:
 ### Relacionamentos
 - **Regras de Negócio** RN02
 
-![DiagramaUC08](./imgs/UC08)
+![DiagramaUC08](./imgs/UC08.png)
 
 ---
 
@@ -240,7 +240,7 @@ Para **cada caso de uso**, utilize o template abaixo:
 ### Relacionamentos
 - **Regras de Negócio** RN07
 
-![DiagramaUC09](./imgs/UC09)
+![DiagramaUC09](./imgs/UC09.png)
 
 ---
 
@@ -258,7 +258,7 @@ Para **cada caso de uso**, utilize o template abaixo:
 ### Relacionamentos
 - **Regras de Negócio** RN06
 
-![DiagramaUC10](./imgs/UC10)
+![DiagramaUC10](./imgs/UC10.png)
 
 ---
 
@@ -274,7 +274,7 @@ Para **cada caso de uso**, utilize o template abaixo:
 ### Relacionamentos
 - **Regras de Negócio** RN05
 
-![DiagramaUC11](./imgs/UC11)
+![DiagramaUC11](./imgs/UC11.png)
 
 
 ---
@@ -292,5 +292,5 @@ Para **cada caso de uso**, utilize o template abaixo:
 ### Relacionamentos
 - **Regras de Negócio** RN07
 
-![DiagramaUC12](./imgs/UC12)
+![DiagramaUC12](./imgs/UC12.png)
 
